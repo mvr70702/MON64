@@ -3,6 +3,8 @@ powerfull Commodore 64 debugger/ml monitor
 MON64 is a native C64 debugger with commands like trace into/over subroutines, breakpoints and a watch-feature.
 Using the 'simulated' execution mode (X command), it can even trace/single step/set breakpoints in ROM
 
+'MON64' is the binary. It runs at $c000, or 49152
+
 MON64 command overview
 =================================================================================================================
 
